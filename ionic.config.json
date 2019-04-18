@@ -1,5 +1,7 @@
 {
   "name": "devdacticSocket",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
